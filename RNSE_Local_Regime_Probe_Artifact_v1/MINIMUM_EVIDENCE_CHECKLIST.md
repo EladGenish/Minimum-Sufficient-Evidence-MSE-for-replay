@@ -1,4 +1,4 @@
-# Minimum Sufficient Evidence Checklist (v1)
+This document defines the Minimum Sufficient Evidence (MSE) required for regime replay.
 
 This checklist defines what must be retained so a third party can **replay the regime call** without engine internals.
 
