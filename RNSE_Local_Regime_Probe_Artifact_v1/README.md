@@ -1,5 +1,7 @@
 Minimum Sufficient Evidence (MSE) for replay  - RNSE - Elad Genish
 
+The rule output is treated as a first-class audit artifact under the MSE replay contract.
+
 This repository is a **minimal, IP-safe “proof artifact”** for a *regime call* on RNSE-style diagnostics:
 
 - the **engine runs** (internals not included here)
