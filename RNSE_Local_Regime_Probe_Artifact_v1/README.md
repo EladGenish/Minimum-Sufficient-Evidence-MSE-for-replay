@@ -1,4 +1,4 @@
-# RNSE Local Regime Probe — Proof Artifact (v1)
+Minimum Sufficient Evidence (MSE) for replay  - RNSE - Elad Genish
 
 This repository is a **minimal, IP-safe “proof artifact”** for a *regime call* on RNSE-style diagnostics:
 
