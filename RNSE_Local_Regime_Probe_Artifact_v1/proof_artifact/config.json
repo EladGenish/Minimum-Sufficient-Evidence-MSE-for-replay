@@ -1,0 +1,28 @@
+{
+  "seed": 42,
+  "ticks": 2000,
+  "gridw": 60,
+  "gridh": 20,
+  "window": 80,
+  "kappas": [
+    0.0,
+    0.05,
+    0.1,
+    0.15,
+    0.2
+  ],
+  "roi_w": 10,
+  "roi_h": 6,
+  "dt": 0.02,
+  "alpha": 1.0,
+  "beta": 0.1,
+  "gamma": 0.15,
+  "diffuse_rate": 0.03,
+  "burst_cycle": 40,
+  "burst_on": 8,
+  "burst_prob_on": 0.8,
+  "burst_prob_off": 0.02,
+  "nperm": 1000,
+  "matplotlib_available": true,
+  "timestamp_utc": "2026-02-04T00:51:52Z"
+}

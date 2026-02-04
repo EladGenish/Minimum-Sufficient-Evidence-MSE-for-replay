@@ -1,0 +1,9 @@
+{
+  "sha256": {
+    "config.json": "e99445187ec30743602966e45bac020b84afee059d4be83164e5fe00c8c4624d",
+    "sweep_summary.json": "ae65d8f72662a05b246271821bb4939816227b32c574918dfa7e36309ee4e368",
+    "summary.json": "ddea20dc2db7b2506544932e2d07ddcc8fbdea5b465ada3bba7b879a6e0289c9",
+    "maps.npz": "e887133623829942d6931a9c69347acebf07081d6281ddf9637e0ad104d99c46",
+    "digests.json": "10125bc2e010e0a851b14afa46ad2dff792e2e0e519849d83381048fb54aad2f"
+  }
+}

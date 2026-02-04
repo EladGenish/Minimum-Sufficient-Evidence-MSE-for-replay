@@ -1,0 +1,14 @@
+{
+  "n_rows": 60,
+  "n_used_corr": 60,
+  "scales": [
+    1,
+    2,
+    4,
+    8,
+    16
+  ],
+  "observed_corr_chi_latency": NaN,
+  "perm_pvalue_two_sided": 0.0004997501249375312,
+  "note": "Logs generated via rnse_core.rnse_run if missing; analysis is black-box from accepted/D only."
+}

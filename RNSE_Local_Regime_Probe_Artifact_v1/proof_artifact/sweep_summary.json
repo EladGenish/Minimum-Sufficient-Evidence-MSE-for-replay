@@ -1,0 +1,477 @@
+[
+  {
+    "kappa": 0.0,
+    "bursty": {
+      "kappa": 0.0,
+      "ticks": 2000,
+      "grid": [
+        60,
+        20
+      ],
+      "window": 80,
+      "roi": {
+        "w": 10,
+        "h": 6
+      },
+      "roi_probe": {
+        "Lambda_roi_mean": 0.0,
+        "Lambda_bg_mean": 0.0,
+        "Delta_Lambda_roi_minus_bg": 0.0,
+        "chi_roi_mean": 0.8147871631756658,
+        "chi_bg_mean": 0.40188046342685596,
+        "Delta_chi_roi_minus_bg": 0.41290669974880984
+      },
+      "coupling": {
+        "metric": "abs(corr(chi, Lambda))",
+        "roi_only": {
+          "r_obs": 0.0,
+          "p_perm_two_sided": 1.0,
+          "n_perm": 1000
+        },
+        "global": {
+          "r_obs": 0.0,
+          "p_perm_two_sided": 1.0,
+          "n_perm": 1000
+        }
+      },
+      "field_summary": {
+        "Lambda_min": 0.0,
+        "Lambda_max": 0.0,
+        "Lambda_mean": 0.0,
+        "Lambda_std": 0.0,
+        "chi_min": 0.0,
+        "chi_max": 0.9874210063194945,
+        "chi_mean": 0.4225257984142965,
+        "chi_std": 0.47965514164856476
+      }
+    },
+    "diffuse": {
+      "kappa": 0.0,
+      "ticks": 2000,
+      "grid": [
+        60,
+        20
+      ],
+      "window": 80,
+      "roi": {
+        "w": 10,
+        "h": 6
+      },
+      "roi_probe": {
+        "Lambda_roi_mean": 0.0,
+        "Lambda_bg_mean": 0.0,
+        "Delta_Lambda_roi_minus_bg": 0.0,
+        "chi_roi_mean": 0.9035049796793259,
+        "chi_bg_mean": 0.8750519511588578,
+        "Delta_chi_roi_minus_bg": 0.02845302852046805
+      },
+      "coupling": {
+        "metric": "abs(corr(chi, Lambda))",
+        "roi_only": {
+          "r_obs": 0.0,
+          "p_perm_two_sided": 1.0,
+          "n_perm": 1000
+        },
+        "global": {
+          "r_obs": 0.0,
+          "p_perm_two_sided": 1.0,
+          "n_perm": 1000
+        }
+      },
+      "field_summary": {
+        "Lambda_min": 0.0,
+        "Lambda_max": 0.0,
+        "Lambda_mean": 0.0,
+        "Lambda_std": 0.0,
+        "chi_min": 0.0,
+        "chi_max": 0.9874210063194945,
+        "chi_mean": 0.8764746025848812,
+        "chi_std": 0.2817276070502883
+      }
+    },
+    "delta": {
+      "Delta_Lambda_roi": 0.0,
+      "Delta_chi_roi": -0.08871781650366006
+    }
+  },
+  {
+    "kappa": 0.05,
+    "bursty": {
+      "kappa": 0.05,
+      "ticks": 2000,
+      "grid": [
+        60,
+        20
+      ],
+      "window": 80,
+      "roi": {
+        "w": 10,
+        "h": 6
+      },
+      "roi_probe": {
+        "Lambda_roi_mean": 0.24892965147408116,
+        "Lambda_bg_mean": 0.14811470312307978,
+        "Delta_Lambda_roi_minus_bg": 0.10081494835100138,
+        "chi_roi_mean": 0.8147871631756658,
+        "chi_bg_mean": 0.40188046342685596,
+        "Delta_chi_roi_minus_bg": 0.41290669974880984
+      },
+      "coupling": {
+        "metric": "abs(corr(chi, Lambda))",
+        "roi_only": {
+          "r_obs": 0.09935857599381756,
+          "p_perm_two_sided": 0.44455544455544455,
+          "n_perm": 1000
+        },
+        "global": {
+          "r_obs": 0.4782546498334343,
+          "p_perm_two_sided": 0.000999000999000999,
+          "n_perm": 1000
+        }
+      },
+      "field_summary": {
+        "Lambda_min": 0.08850545027063257,
+        "Lambda_max": 0.268635703414329,
+        "Lambda_mean": 0.15315545054062987,
+        "Lambda_std": 0.03428749322833206,
+        "chi_min": 0.0,
+        "chi_max": 0.9874210063194945,
+        "chi_mean": 0.4225257984142965,
+        "chi_std": 0.47965514164856476
+      }
+    },
+    "diffuse": {
+      "kappa": 0.05,
+      "ticks": 2000,
+      "grid": [
+        60,
+        20
+      ],
+      "window": 80,
+      "roi": {
+        "w": 10,
+        "h": 6
+      },
+      "roi_probe": {
+        "Lambda_roi_mean": 0.29343001168156896,
+        "Lambda_bg_mean": 0.29300505993224857,
+        "Delta_Lambda_roi_minus_bg": 0.00042495174932039026,
+        "chi_roi_mean": 0.9035049796793259,
+        "chi_bg_mean": 0.8750519511588578,
+        "Delta_chi_roi_minus_bg": 0.02845302852046805
+      },
+      "coupling": {
+        "metric": "abs(corr(chi, Lambda))",
+        "roi_only": {
+          "r_obs": 0.515741216445269,
+          "p_perm_two_sided": 0.002997002997002997,
+          "n_perm": 1000
+        },
+        "global": {
+          "r_obs": 0.490019257209213,
+          "p_perm_two_sided": 0.000999000999000999,
+          "n_perm": 1000
+        }
+      },
+      "field_summary": {
+        "Lambda_min": 0.22581941938583822,
+        "Lambda_max": 0.30961927243285564,
+        "Lambda_mean": 0.2930263075197146,
+        "Lambda_std": 0.01237820213898958,
+        "chi_min": 0.0,
+        "chi_max": 0.9874210063194945,
+        "chi_mean": 0.8764746025848812,
+        "chi_std": 0.2817276070502883
+      }
+    },
+    "delta": {
+      "Delta_Lambda_roi": -0.044500360207487794,
+      "Delta_chi_roi": -0.08871781650366006
+    }
+  },
+  {
+    "kappa": 0.1,
+    "bursty": {
+      "kappa": 0.1,
+      "ticks": 2000,
+      "grid": [
+        60,
+        20
+      ],
+      "window": 80,
+      "roi": {
+        "w": 10,
+        "h": 6
+      },
+      "roi_probe": {
+        "Lambda_roi_mean": 0.49785930294816233,
+        "Lambda_bg_mean": 0.29622940624615957,
+        "Delta_Lambda_roi_minus_bg": 0.20162989670200276,
+        "chi_roi_mean": 0.8147871631756658,
+        "chi_bg_mean": 0.40188046342685596,
+        "Delta_chi_roi_minus_bg": 0.41290669974880984
+      },
+      "coupling": {
+        "metric": "abs(corr(chi, Lambda))",
+        "roi_only": {
+          "r_obs": 0.09935857599381756,
+          "p_perm_two_sided": 0.44455544455544455,
+          "n_perm": 1000
+        },
+        "global": {
+          "r_obs": 0.4782546498334343,
+          "p_perm_two_sided": 0.000999000999000999,
+          "n_perm": 1000
+        }
+      },
+      "field_summary": {
+        "Lambda_min": 0.17701090054126514,
+        "Lambda_max": 0.537271406828658,
+        "Lambda_mean": 0.30631090108125975,
+        "Lambda_std": 0.06857498645666411,
+        "chi_min": 0.0,
+        "chi_max": 0.9874210063194945,
+        "chi_mean": 0.4225257984142965,
+        "chi_std": 0.47965514164856476
+      }
+    },
+    "diffuse": {
+      "kappa": 0.1,
+      "ticks": 2000,
+      "grid": [
+        60,
+        20
+      ],
+      "window": 80,
+      "roi": {
+        "w": 10,
+        "h": 6
+      },
+      "roi_probe": {
+        "Lambda_roi_mean": 0.5868600233631379,
+        "Lambda_bg_mean": 0.5860101198644971,
+        "Delta_Lambda_roi_minus_bg": 0.0008499034986407805,
+        "chi_roi_mean": 0.9035049796793259,
+        "chi_bg_mean": 0.8750519511588578,
+        "Delta_chi_roi_minus_bg": 0.02845302852046805
+      },
+      "coupling": {
+        "metric": "abs(corr(chi, Lambda))",
+        "roi_only": {
+          "r_obs": 0.515741216445269,
+          "p_perm_two_sided": 0.002997002997002997,
+          "n_perm": 1000
+        },
+        "global": {
+          "r_obs": 0.490019257209213,
+          "p_perm_two_sided": 0.000999000999000999,
+          "n_perm": 1000
+        }
+      },
+      "field_summary": {
+        "Lambda_min": 0.45163883877167643,
+        "Lambda_max": 0.6192385448657113,
+        "Lambda_mean": 0.5860526150394292,
+        "Lambda_std": 0.02475640427797916,
+        "chi_min": 0.0,
+        "chi_max": 0.9874210063194945,
+        "chi_mean": 0.8764746025848812,
+        "chi_std": 0.2817276070502883
+      }
+    },
+    "delta": {
+      "Delta_Lambda_roi": -0.08900072041497559,
+      "Delta_chi_roi": -0.08871781650366006
+    }
+  },
+  {
+    "kappa": 0.15,
+    "bursty": {
+      "kappa": 0.15,
+      "ticks": 2000,
+      "grid": [
+        60,
+        20
+      ],
+      "window": 80,
+      "roi": {
+        "w": 10,
+        "h": 6
+      },
+      "roi_probe": {
+        "Lambda_roi_mean": 0.7467889544222435,
+        "Lambda_bg_mean": 0.44434410936923935,
+        "Delta_Lambda_roi_minus_bg": 0.3024448450530041,
+        "chi_roi_mean": 0.8147871631756658,
+        "chi_bg_mean": 0.40188046342685596,
+        "Delta_chi_roi_minus_bg": 0.41290669974880984
+      },
+      "coupling": {
+        "metric": "abs(corr(chi, Lambda))",
+        "roi_only": {
+          "r_obs": 0.09935857599381782,
+          "p_perm_two_sided": 0.44455544455544455,
+          "n_perm": 1000
+        },
+        "global": {
+          "r_obs": 0.4782546498334345,
+          "p_perm_two_sided": 0.000999000999000999,
+          "n_perm": 1000
+        }
+      },
+      "field_summary": {
+        "Lambda_min": 0.2655163508118978,
+        "Lambda_max": 0.8059071102429877,
+        "Lambda_mean": 0.45946635162188953,
+        "Lambda_std": 0.10286247968499615,
+        "chi_min": 0.0,
+        "chi_max": 0.9874210063194945,
+        "chi_mean": 0.4225257984142965,
+        "chi_std": 0.47965514164856476
+      }
+    },
+    "diffuse": {
+      "kappa": 0.15,
+      "ticks": 2000,
+      "grid": [
+        60,
+        20
+      ],
+      "window": 80,
+      "roi": {
+        "w": 10,
+        "h": 6
+      },
+      "roi_probe": {
+        "Lambda_roi_mean": 0.8802900350447065,
+        "Lambda_bg_mean": 0.8790151797967456,
+        "Delta_Lambda_roi_minus_bg": 0.0012748552479608932,
+        "chi_roi_mean": 0.9035049796793259,
+        "chi_bg_mean": 0.8750519511588578,
+        "Delta_chi_roi_minus_bg": 0.02845302852046805
+      },
+      "coupling": {
+        "metric": "abs(corr(chi, Lambda))",
+        "roi_only": {
+          "r_obs": 0.5157412164452696,
+          "p_perm_two_sided": 0.002997002997002997,
+          "n_perm": 1000
+        },
+        "global": {
+          "r_obs": 0.4900192572092137,
+          "p_perm_two_sided": 0.000999000999000999,
+          "n_perm": 1000
+        }
+      },
+      "field_summary": {
+        "Lambda_min": 0.6774582581575145,
+        "Lambda_max": 0.9288578172985661,
+        "Lambda_mean": 0.8790789225591438,
+        "Lambda_std": 0.03713460641696872,
+        "chi_min": 0.0,
+        "chi_max": 0.9874210063194945,
+        "chi_mean": 0.8764746025848812,
+        "chi_std": 0.2817276070502883
+      }
+    },
+    "delta": {
+      "Delta_Lambda_roi": -0.13350108062246302,
+      "Delta_chi_roi": -0.08871781650366006
+    }
+  },
+  {
+    "kappa": 0.2,
+    "bursty": {
+      "kappa": 0.2,
+      "ticks": 2000,
+      "grid": [
+        60,
+        20
+      ],
+      "window": 80,
+      "roi": {
+        "w": 10,
+        "h": 6
+      },
+      "roi_probe": {
+        "Lambda_roi_mean": 0.9664100305379411,
+        "Lambda_bg_mean": 0.5923749040148386,
+        "Delta_Lambda_roi_minus_bg": 0.37403512652310245,
+        "chi_roi_mean": 0.8147871631756658,
+        "chi_bg_mean": 0.40188046342685596,
+        "Delta_chi_roi_minus_bg": 0.41290669974880984
+      },
+      "coupling": {
+        "metric": "abs(corr(chi, Lambda))",
+        "roi_only": {
+          "r_obs": 0.15632119203315156,
+          "p_perm_two_sided": 0.2057942057942058,
+          "n_perm": 1000
+        },
+        "global": {
+          "r_obs": 0.4851261630901144,
+          "p_perm_two_sided": 0.000999000999000999,
+          "n_perm": 1000
+        }
+      },
+      "field_summary": {
+        "Lambda_min": 0.35396589172548715,
+        "Lambda_max": 1.0,
+        "Lambda_mean": 0.6110766603409937,
+        "Lambda_std": 0.1327249177617048,
+        "chi_min": 0.0,
+        "chi_max": 0.9874210063194945,
+        "chi_mean": 0.4225257984142965,
+        "chi_std": 0.47965514164856476
+      }
+    },
+    "diffuse": {
+      "kappa": 0.2,
+      "ticks": 2000,
+      "grid": [
+        60,
+        20
+      ],
+      "window": 80,
+      "roi": {
+        "w": 10,
+        "h": 6
+      },
+      "roi_probe": {
+        "Lambda_roi_mean": 0.9887630671985648,
+        "Lambda_bg_mean": 0.9869961290226873,
+        "Delta_Lambda_roi_minus_bg": 0.001766938175877475,
+        "chi_roi_mean": 0.9035049796793259,
+        "chi_bg_mean": 0.8750519511588578,
+        "Delta_chi_roi_minus_bg": 0.02845302852046805
+      },
+      "coupling": {
+        "metric": "abs(corr(chi, Lambda))",
+        "roi_only": {
+          "r_obs": 0.5298012518778383,
+          "p_perm_two_sided": 0.002997002997002997,
+          "n_perm": 1000
+        },
+        "global": {
+          "r_obs": 0.611909851736679,
+          "p_perm_two_sided": 0.000999000999000999,
+          "n_perm": 1000
+        }
+      },
+      "field_summary": {
+        "Lambda_min": 0.7667239551372865,
+        "Lambda_max": 1.0,
+        "Lambda_mean": 0.9870844759314813,
+        "Lambda_std": 0.03317396282397585,
+        "chi_min": 0.0,
+        "chi_max": 0.9874210063194945,
+        "chi_mean": 0.8764746025848812,
+        "chi_std": 0.2817276070502883
+      }
+    },
+    "delta": {
+      "Delta_Lambda_roi": -0.022353036660623715,
+      "Delta_chi_roi": -0.08871781650366006
+    }
+  }
+]
